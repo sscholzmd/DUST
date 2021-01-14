@@ -1,1 +1,0 @@
-Hier steht nur was zum Test, ob das mit dem git pull --rebase klappt
